@@ -32,10 +32,6 @@ Aplicar os conceitos de **POO** em Java:
 
 ---
 
-## 📦 Estrutura
-
-
----
 
 ## 📸 Exemplo de uso
 
